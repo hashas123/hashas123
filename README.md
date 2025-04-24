@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hashas123
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning C
+- 👀 I’m interested in VHDL
+- 🌱 I’m currently learning VHDL and Systemverilog
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @hsngkbrkzkn
 
